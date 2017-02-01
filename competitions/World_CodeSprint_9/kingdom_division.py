@@ -1,5 +1,7 @@
 #https://www.hackerrank.com/contests/world-codesprint-9/challenges/kingdom-division
 
+#not solved
+
 import operator as op
 from functools import reduce
 

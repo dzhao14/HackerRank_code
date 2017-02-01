@@ -1,6 +1,4 @@
-#Given a list of unsorted integers, A = {a1, a2, ..., aN},
-#can you find the pair of elements that have the smallest
-#absolute difference between them? If there are multiple pairs, find them all.
+#https://www.hackerrank.com/challenges/closest-numbers
 
 def qsort_inplace(arr, lo, hi):
     if hi - lo <= 1:

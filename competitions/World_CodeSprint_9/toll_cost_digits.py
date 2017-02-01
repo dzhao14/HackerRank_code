@@ -1,5 +1,6 @@
 #https://www.hackerrank.com/contests/world-codesprint-9/challenges/toll-cost-digits
 
+#not solved
 
 # equivalent to (-n) % 10
 def flip(n):
