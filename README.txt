@@ -8,6 +8,8 @@ The goal is to grow this repository, thus expanding  my coding tool bank when I'
 
 (As a result don't expect much when it comes to coding style and coding standards. This repository really just tracks how much algorithms and data structures I'm learning and how much volume I'm putting into this craft.)
 
+https://www.hackerrank.com/dzhao14
+
 Some personal goals I'd like to hit:
 	Understand DP in and out (created 1/31/2017)
 	Understand graph traversing algorithms (created 1/31/2017)
