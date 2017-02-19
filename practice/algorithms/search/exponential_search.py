@@ -12,3 +12,14 @@ def bSearch(arr, lo, hi, target):
         return bSearch(arr, lo, mid, target)
     else:
         return bSearch(arr, mid+1, hi, target)
+
+#http://www.geeksforgeeks.org/exponential-search/
+def expSearch(arr, target):
+    if arr[0] == target:
+        return 0
+
+    i = 1
+    while i < len(arr) and arr[i] <= target:
+        i = i*2
+
+    return bSearch(arr, i//2, min(i, len(arr)-1), target)
