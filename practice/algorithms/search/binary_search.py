@@ -1,7 +1,10 @@
 #Binary search!
 
 #lo and hi are inclusive
-def bSearch(arr, lo, hi, target):
+def bSearchRecursive(arr, lo, hi, target):
+    """
+    Recursive
+    """
     if len(arr) == 0:
         return -1
     if lo == hi:
@@ -12,3 +15,20 @@ def bSearch(arr, lo, hi, target):
         return bSearch(arr, lo, mid, target)
     else:
         return bSearch(arr, mid+1, hi, target)
+
+#lo and hi are inclusive
+def bSearchIterative(arr, lo, hi, target):
+    """
+    Iterative
+    """
+    if len(arr) == 0:
+        return -1
+    
+    while lo < hi:
+        mid = lo + (hi - lo) // 2
+        if target > arr[mid]:
+            lo = mid + 1
+        else: 
+            hi = mid
+
+    return lo if arr[lo] == target else -1
