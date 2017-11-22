@@ -11,9 +11,11 @@ The goal is to grow this repository, thus expanding  my coding tool bank when I'
 https://www.hackerrank.com/dzhao14
 
 Some personal goals I'd like to hit:
-	Understand DP in and out (created 1/31/2017)
 	Understand graph traversing algorithms (created 1/31/2017) (Finished)
 	Reach a competitive rating of 2000+ (created 1/31/2017) (Finished 05/31/2017)
+	Make c++ my primary language
+	Understand DP in and out (created 1/31/2017)
+	Get a gold medal
 	
 	Write tons of code =)
 
