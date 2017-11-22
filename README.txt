@@ -13,9 +13,9 @@ https://www.hackerrank.com/dzhao14
 Some personal goals I'd like to hit:
 	Understand graph traversing algorithms (created 1/31/2017) (Finished)
 	Reach a competitive rating of 2000+ (created 1/31/2017) (Finished 05/31/2017)
-	Make c++ my primary language
+	Make c++ my primary language (created 11/22/2017)
 	Understand DP in and out (created 1/31/2017)
-	Get a gold medal
+	Get a gold medal (created 11/22/2017)
 	
 	Write tons of code =)
 
