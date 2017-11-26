@@ -22,6 +22,7 @@ int main() {
 		ma = max(ma, v);
 	}
 	cout << ma;
+	delete counts;
 
 	return 0;
 }
